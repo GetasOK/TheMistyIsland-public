@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkthe_misty_island"]=self["webpackChunkthe_misty_island"]||[]).push([[443],{2031:function(n,t,s){s.r(t),s.d(t,{default:function(){return o}});var a=s(9269);const e={class:"about"},u=(0,a._)("h1",null,"This is an about page",-1),i=[u];function r(n,t){return(0,a.wg)(),(0,a.iD)("div",e,i)}var c=s(7617);const l={},h=(0,c.Z)(l,[["render",r]]);var o=h}}]);
+//# sourceMappingURL=about.9599add4.js.map
